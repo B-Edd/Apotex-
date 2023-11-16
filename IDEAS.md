@@ -7,3 +7,7 @@ tells you how many sick days/vacation days you have
 
 menu on left:
 it says home, calendar, request work time change
+
+things to do:
+make sidebar able to dissapere
+
